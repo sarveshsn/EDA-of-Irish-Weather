@@ -1,5 +1,7 @@
 # Exploratory Data Analysis of Irish Weather
 
+### Year : 2022
+
 This Python project aims to perform an exploratory data analysis (EDA) on the Irish weather dataset for the year 2021. The dataset includes various weather measurements recorded daily at three different weather stations: Dublin Airport, Shannon Airport, and Cork Airport.
 
 ![web17_radar15_202308311130](https://github.com/sarveshsn/EDA-of-Irish-Weather/assets/93898181/9a471ac2-5a0d-427d-9a8e-4befa9735528)
